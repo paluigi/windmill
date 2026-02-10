@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.629.2](https://github.com/windmill-labs/windmill/compare/v1.629.1...v1.629.2) (2026-02-10)
+
+
+### Bug Fixes
+
+* gate Permissions import behind #[cfg(unix)] for Windows build ([cf596f3](https://github.com/windmill-labs/windmill/commit/cf596f370ae7cc232ca63f4752d7727a74cd449b))
+
 ## [1.629.1](https://github.com/windmill-labs/windmill/compare/v1.629.0...v1.629.1) (2026-02-10)
 
 
